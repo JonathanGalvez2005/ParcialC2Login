@@ -1,0 +1,13 @@
+C:\Users\jonat\OneDrive\Escritorio\parciall\login\login\bin\Debug\usuarios.mdf
+C:\Users\jonat\OneDrive\Escritorio\parciall\login\login\bin\Debug\usuarios_log.ldf
+C:\Users\jonat\OneDrive\Escritorio\parciall\login\login\bin\Debug\login.exe.config
+C:\Users\jonat\OneDrive\Escritorio\parciall\login\login\bin\Debug\login.exe
+C:\Users\jonat\OneDrive\Escritorio\parciall\login\login\bin\Debug\login.pdb
+C:\Users\jonat\OneDrive\Escritorio\parciall\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Escritorio\parciall\login\login\obj\Debug\login.Form1.resources
+C:\Users\jonat\OneDrive\Escritorio\parciall\login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\jonat\OneDrive\Escritorio\parciall\login\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\jonat\OneDrive\Escritorio\parciall\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Escritorio\parciall\login\login\obj\Debug\login.exe
+C:\Users\jonat\OneDrive\Escritorio\parciall\login\login\obj\Debug\login.pdb
+C:\Users\jonat\OneDrive\Escritorio\parciall\login\login\obj\Debug\login.Login.resources
